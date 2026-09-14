@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-build-blue?logo=apachemaven)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-completo-brightgreen)
 
 Um sistema financeiro pessoal feito em Java puro (sem Spring, sem banco), focado em modelar de verdade as regras chatas de um app de finanças: parcelamento, fatura de cartão de crédito, orçamento, metas, contas a pagar, transação recorrente etc.
 
